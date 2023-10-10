@@ -1,0 +1,7 @@
+GRAMMAR := Expr.jj
+
+run:
+	cd src && echo "TODO"
+
+build:
+	cd src && ../javacc
